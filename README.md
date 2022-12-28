@@ -5,4 +5,5 @@ Cloudreve其它架构版本
 
 #### 公告
 最近cloudreve更新了3.6版本，但由于在修bug会频繁更新，暂不考虑添加，等稳定了再添加  
-github直接下载慢可使用cdn：[https://gcore.jsdelivr.net/gh/ZxwyWebSite/cloudreve/](https://gcore.jsdelivr.net/gh/ZxwyWebSite/cloudreve/){包名}
+github直接下载慢可使用cdn：[https://gcore.jsdelivr.net/gh/ZxwyWebSite/cloudreve/](https://gcore.jsdelivr.net/gh/ZxwyWebSite/cloudreve/){包名}  
+jsd有文件大小限制，无法下载请使用自建cdn：[https://b2eu.zw-cdn.tk/gh/cloudreve/](https://b2eu.zw-cdn.tk/gh/cloudreve/){包名}
