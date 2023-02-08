@@ -5,7 +5,6 @@ Cloudreve其它架构版本
 
 #### 公告&更新
 **\> 2022-02-08**  
-
 【踩坑】  
 终于搞明白怎么将前端打包进程序了（...）  
 打包前端目录结构应为 assets.zip/assets/build/{前端文件}  
@@ -17,6 +16,12 @@ Cloudreve其它架构版本
 使用2022-07-12克隆下载的版本，可在设置中切换语言  
 删除设置里的 "关于Cloudreve" 选项，位置 /assets/src/component/Setting/UserSetting.js  
 删除后台首页的社区文章，位置 /assets/src/component/Admin/Index.js  
+使用细滚动条（测试）  
+
+【问题】  
+Cloudreve的站点描述显示异常（{siteDes}获取不到）  
+是很早以前的Bug了，不信你去官方demo看一下  
+暂时可通过手动修改index.html解决  
 
 【公告】  
 暂时还是不打算更新3.6系列，因为据论坛反馈还有一些bug，再等一段时间吧...  
