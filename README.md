@@ -4,6 +4,9 @@ Cloudreve其它架构版本
 已支持架构：s390x，armv7，armv5，armv6，amd64  
 已支持系统：Windows，Linux  
 CDN加速下载：https://b2eu.zw-cdn.tk/gh/cloudreve/{路径}/{包名}
+#### **\> 2023-03-12**
++ **存档此仓库，发布新版本。**
++ **https://github.com/ZxwyWebSite/HappyCloudreve**
 #### 公告&更新
 **\> 2022-02-10**  
 **这可能是最后一次更新，官方最新版本已支持arm架构，且SQlite驱动不再受限**  
